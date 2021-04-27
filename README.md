@@ -8,6 +8,5 @@ Quiz App using ASP.NET Core and EntityFramework for back-end. Front-end with Rea
 
 #To run on Visual Studio
 *PostgreSQL is required
-1 - Tools - NuGet Packege Manager - Packege Manager Console - Update-Database
-
-2 - Build and Run 
+- Tools - NuGet Packege Manager - Packege Manager Console - Update-Database
+- Build and Run 
